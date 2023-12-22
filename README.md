@@ -48,7 +48,7 @@
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=idmit&theme=dark&background=000000" alt="idmit stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=idmit&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="idmit`s Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=idmit&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
