@@ -36,15 +36,19 @@
 <img alt="vs code" src="https://img.shields.io/badge/vs code-black.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 <img alt='chat gpt' src='https://img.shields.io/badge/chatGPT-black?style=for-the-badge&logo=openai&logoColor=white' />
 
+### 🚀 Codewars:
+
+![codewars](https://www.codewars.com/users/rsschool_0605def1be6e5715/badges/large)
+
 ### :fire: GitHub Analytics :
 
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=idmit&theme=dark&background=000000" alt="idmit stats" height="195px"/>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=idmit&theme=dark&background=000000" alt="idmit stats" />
     </td>
     <td>
-      <img  align="right" alt="idmit languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=idmit&theme=vision-friendly-dark&layout=compact" height='195px'/>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=idmit&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
