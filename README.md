@@ -1,4 +1,4 @@
-<img src='./img/logo.jpg' width='100%' height='250' align='center'>
+<img src='./img/logo.jpg'>
 
 <h2>Hi all, I`m Dzmitry 👋</h2>
 <h3>I'm a frontend developer!</h3>
