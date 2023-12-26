@@ -38,7 +38,7 @@
 
 ### 🚀 Codewars:
 
-![codewars](https://www.codewars.com/users/rsschool_0605def1be6e5715/badges/large)
+![codewars](https://www.codewars.com/users/dzmtr/badges/large)
 
 ### :fire: GitHub Analytics :
 
