@@ -1,11 +1,11 @@
 <img src='./img/logo.jpg'>
 
 <h2>Hi all, I`m Dzmitry 👋</h2>
-<h3>I'm a frontend developer!</h3>
+<h3>I'm a Project manager!</h3>
 
 <h2>About me :</h2>
 
-- 🔍 I love learning and exploring new ideas, tools, and methods to improve my web development skills.
+- 🔍 I love learning and exploring new ideas, tools, and methods to improve my skills.
 - 💻 I am passionate about creating beautiful and functional interfaces for web applications.
 - 🤝 I enjoy collaborating with others, exchanging ideas, and working together to achieve common goals.
 
